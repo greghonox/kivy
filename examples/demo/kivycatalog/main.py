@@ -1,6 +1,6 @@
 '''
 Kivy Catalog
-============
+============1
 
 The Kivy Catalog viewer showcases widgets available in Kivy
 and allows interactive editing of kivy language code to get immediate
